@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Henrique, tenho 23 anos e sou natural de São Paulo. Concluí o curso técnico em Informática e, atualmente, estou cursando Bacharelado em Ciência da Computação. Tenho grande interesse pela área da tecnologia e estou sempre em busca de novos aprendizados e desafios nesse universo.
+Me chamo Henrique, tenho 24 anos e sou natural de São Paulo. Concluí o curso técnico em Informática e, atualmente, estou cursando Bacharelado em Ciência da Computação. Tenho grande interesse pela área da tecnologia e estou sempre em busca de novos aprendizados e desafios nesse universo.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/henriquesouza-silva/">
