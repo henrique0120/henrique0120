@@ -110,7 +110,7 @@ Me chamo Henrique, tenho 24 anos e sou natural de São Paulo. Concluí o curso t
 
 <br/>
 <br/>
-
+<!--
 ### Estatísticas
 
 <p>
